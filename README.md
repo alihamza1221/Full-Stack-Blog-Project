@@ -2,7 +2,7 @@
 
 Welcome to the Full-Stack Blog Project! This is a dynamic blogging web application that allows users to post, edit, delete, and view detailed information about blogs. The application is built using HTML, JavaScript, Node.js, MySQL, EJS, and CSS.
 
-![App Screenshot](./images/screenshot.png)
+![App Screenshot](./database/blogwebpag.png)
 
 ## Table of Contents
 - [Features](#Blogsite-CRUD-features)
