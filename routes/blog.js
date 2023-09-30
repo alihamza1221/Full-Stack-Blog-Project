@@ -36,7 +36,7 @@ router.get('/posts/:id', async (req, res) => {
    }
    const postdata = {
       ...post[0],
-      date:post[0].date.toISOString(),
+      date: post[0].date ? post[0].date.toISOString() : null,
       humanreadabledate: post[0].date.toLocaleDateString('en-US',{
          weekday: 'long',
          month:'long',
