@@ -30,4 +30,4 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone this repository to your local machine (you can also fork it if you plan to contribute):
 
    ```bash
-   git clone https://github.com/your-username/Full-Stack-Blog-Project.git
+   git clone https://github.com/alihamza1221/Full-Stack-Blog-Project
